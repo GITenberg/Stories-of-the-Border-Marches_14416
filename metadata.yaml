@@ -1,0 +1,32 @@
+_repo: Stories-of-the-Border-Marches_14416
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lang, John
+    birthdate: 1816
+    deathdate: 1864
+    gutenberg_agent_id: '5512'
+    url: http://www.gutenberg.org/2009/agents/5512
+  - agent_name: Lang, Jean
+    alias: Lang, Jeanie
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '26717'
+    url: http://www.gutenberg.org/2009/agents/26717
+description: ''
+gutenberg_issued: '2004-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scottish Borders (Scotland) -- Fiction'
+- !lcc 'PR'
+title: Stories of the Border Marches
+url: http://www.gutenberg.org/ebooks/14416
