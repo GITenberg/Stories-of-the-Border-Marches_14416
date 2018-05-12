@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '26717'
     url: http://www.gutenberg.org/2009/agents/26717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14416#Stories-of-the-Border-Marches
 gutenberg_issued: '2004-12-22'
 gutenberg_type: Text
 identifiers:
